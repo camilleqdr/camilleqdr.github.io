@@ -11,5 +11,5 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     this.themeService.isNightTheme();
   }
-  title = 'hola';
+  title = 'hello';
 }
